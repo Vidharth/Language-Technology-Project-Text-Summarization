@@ -1,5 +1,9 @@
 # Language Technology Project | University of Groningen
 
+This project was done as a part of the course Language Technology Project in the University of Groningen
+
+The main contributors are: Hari Vidharth, Ashwin Vaidya, Nadir Al Hamzi
+
 In this project we compare three summarization models on the WikiHow dataset.
 
 Each of the model is uses a different embedding to encode the sentences. The results are compared and presented in the report.
@@ -54,3 +58,5 @@ Predicted summary: how to prevent bacterial infection
 ```
 
 ```
+
+Please read the included research paper for experiment details and obtained results
